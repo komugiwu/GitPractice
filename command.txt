@@ -1,0 +1,8 @@
+//Git Command Memo
+
+
+*Push
+用終端機新增分支，要同時上傳分支的資料。
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin dev
